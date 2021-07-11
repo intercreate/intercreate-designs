@@ -1,0 +1,8 @@
+Altium/**/History/**/*
+Altium/**/__Previews/*
+**/*.PrjPCBStructure
+Altium/**/Project Logs*
+*.zip
+*.drc
+*.drc
+*.html
