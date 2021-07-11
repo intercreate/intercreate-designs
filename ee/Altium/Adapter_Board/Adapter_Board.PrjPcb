@@ -135,222 +135,6 @@ Variation1=Designator=R3|UniqueId=\FLIWJXFK|Kind=1|AlternatePart=
 Variation2=Designator=R4|UniqueId=\PSAMHYGH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Adapter_Board\3D Files\AdapterBoard(Mfg).step
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Adapter_Board\3D Files\AdapterBoard(Mfg).x_t
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\NC Drill\AdapterBoard-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\NC Drill\AdapterBoard-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\IPC2581\AdapterBoard.cvg
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\NC Drill\AdapterBoard.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.G1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.G2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\NC Drill\AdapterBoard.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\AdapterBoard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\Gerber\AdapterBoard.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCBA_Files\BOM\Bill of Materials-Adapter_Board(Mfg).xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Adapter_Board\Design Rule Check - AdapterBoard.html
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\bottom_assembly\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\mid_layer_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\mid_layer_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\top_assembly\features
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCBA_Files\Pick Place\Pick Place for AdapterBoard(Mfg).txt
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for Adapter_Board\Adapter_Board_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -473,7 +257,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet Pro M428f-M429f [A9DD28]
+TargetPrinter=HP LaserJet Pro M428f-M429f PCL-6 (V4)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -678,6 +462,18 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
