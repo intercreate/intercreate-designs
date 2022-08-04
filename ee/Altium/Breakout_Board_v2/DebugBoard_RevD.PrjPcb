@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Variant of DebugBoard_RevD
 
 [Preferences]
 PrefsVaultGUID=
@@ -81,6 +82,15 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KRWKLEGG
+
+[ProjectVariant1]
+UniqueID=0006A02C-F391-4B71-84B8-E7C9EE0CAAB3
+Description=Variant of DebugBoard_RevD
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=R1|UniqueId=\VPTBFVYA|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for DebugBoard_RevD\Design Rule Check - DebugBreakout_RevD.html
