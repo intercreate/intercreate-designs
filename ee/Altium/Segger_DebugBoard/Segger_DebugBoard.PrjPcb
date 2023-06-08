@@ -144,7 +144,171 @@ Variation1=Designator=R1|UniqueId=\DGTZJOFD|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCBA_Files\BOM\Bill of Materials-Segger_DebugBoard(Mfg).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Segger_DebugBoard\3D Files\DebugBoard(Mfg).step
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Segger_DebugBoard\3D Files\DebugBoard(Mfg).x_t
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\IPC2581\DebugBoard.cvg
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\NC Drill\DebugBoard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.GM
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\NC Drill\DebugBoard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\DebugBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\Gerber\DebugBoard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\NC Drill\DebugBoard.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Segger_DebugBoard\Design Rule Check - DebugBoard.html
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCBA_Files\Pick Place\Pick Place for DebugBoard(Mfg).txt
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Parameter1]
