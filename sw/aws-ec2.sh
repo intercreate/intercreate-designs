@@ -145,7 +145,7 @@ while [ $# -gt 0 ]; do
   esac
 done
 
-which aws &>1 > /dev/null
+which aws &> /dev/null
 if [ "$(echo $?)" -ne "0" ]; then
     log ERROR "'aws' is not found in your PATH"
     exit 1
