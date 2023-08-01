@@ -143,6 +143,10 @@ VariationCount=1
 Variation1=Designator=J1|UniqueId=\DJONBWOR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Breakout_4pin\Design Rule Check - Breakout_4pin.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ProjectName
 Value=Breakout_4pin

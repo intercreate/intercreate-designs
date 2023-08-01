@@ -132,7 +132,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IGIQAWFW
 
 [ProjectVariant1]
 UniqueID=FCD6B674-DC73-41E6-8566-155EEAD0BC38
@@ -142,6 +142,10 @@ ParameterCount=0
 VariationCount=1
 Variation1=Designator=J1|UniqueId=\XPTWYCLE|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Breakout_24pin\Design Rule Check - Breakout_24pin.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjectName
