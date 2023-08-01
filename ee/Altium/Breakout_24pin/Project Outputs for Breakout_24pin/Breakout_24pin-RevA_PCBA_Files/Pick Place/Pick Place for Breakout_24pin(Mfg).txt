@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\jocap\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_24pin\Project Outputs for Breakout_24pin\Breakout_24pin-RevA_PCBA_Files\Pick Place\Pick Place for Breakout_24pin(Mfg).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/08/23
+Time:       16:19
+Revision:   e5fbe003516fee8bb9528692b816bd0428eac1b3
+Variant:    Mfg
+Units used: mil
+
+Designator Comment      Layer    Footprint            Center-X(mil) Center-Y(mil) Rotation Description                           
+M4         MTG_HOLE     TopLayer MH_P_2.5MM           118.110       118.110       90       "MTG HOLE PLATED VARIOUS SIZES"       
+M3         MTG_HOLE     TopLayer MH_P_2.5MM           118.110       866.142       90       "MTG HOLE PLATED VARIOUS SIZES"       
+M2         MTG_HOLE     TopLayer MH_P_2.5MM           2047.244      866.142       90       "MTG HOLE PLATED VARIOUS SIZES"       
+M1         MTG_HOLE     TopLayer MH_P_2.5MM           2047.244      118.110       90       "MTG HOLE PLATED VARIOUS SIZES"       
+J2         FFC2B28-24-G TopLayer CONN-FFC-H-24P-0.5MM 1062.992      83.231        0        "24W, 0.5MM Ffc Con, R/a, Dual Cont," 

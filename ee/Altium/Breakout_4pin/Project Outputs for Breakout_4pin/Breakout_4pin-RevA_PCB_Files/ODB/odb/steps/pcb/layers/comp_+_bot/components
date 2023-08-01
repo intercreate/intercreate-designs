@@ -1,0 +1,58 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 26.99999934 3.8291008 0 N J2 XF3M(1)-0415-1B ;0=1,1=1.8300
+PRP Actuator_Color 'Black'
+PRP Actuator_Material 'Polymer,Liquid Crystal Polymer'
+PRP Category 'FFC / FPC'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/29758/xf3m-0813-29758592.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/29758/xf3m-0813-29758592.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/29758/xf3m-0813-29758601.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/29758/xf3m-0813-29758601.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/43511/xf3m-0813-43511125.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/43511/xf3m-0813-43511125.pdf?src-supplier=Onlinecomponents.com'
+PRP Contact_Location 'Dual'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Plating 'Gold'
+PRP Current_Rating '500mA'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Female'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Polymer'
+PRP Insulation_Resistance '100MR'
+PRP Lead_Free 'Lead Free'
+PRP Manufacturer_1 'Omron'
+PRP Manufacturer_Part_Number_1 'XF3M(1)-0415-1B'
+PRP Mating_Cycles '20'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-30°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Contacts '4'
+PRP Number_of_Positions '4'
+PRP Number_of_Rows '1'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '1mm'
+PRP Pricing_1 '1500=0.6934, 3000=0.542, 6000=0.5365, 12000=0.5311, 15000=0.5257, 24000=0.5204, 30000=0.5152 (USD)'
+PRP Radiation_Hardening 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'XF3M'
+PRP Stock_1 '10500'
+PRP Supplier_1 'Arrow Electronics'
+PRP Supplier_Part_Number_1 'XF3M(1)-0415-1B'
+PRP Termination 'Solder'
+PRP Voltage_Rating '50V'
+TOP 0 28.49999888 5.22910054 180 N 1 0 1
+TOP 1 27.49999834 5.22910054 180 N 2 0 2
+TOP 2 26.4999978 5.22910054 180 N 3 0 3
+TOP 3 25.4999998 5.22910054 180 N 4 0 4
+TOP 4 30.89999916 1.97910196 180 N 0 1 ME1
+TOP 5 23.09999952 1.97910196 0 N 0 0 ME2
+#

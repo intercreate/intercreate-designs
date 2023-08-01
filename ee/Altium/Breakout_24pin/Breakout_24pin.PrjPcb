@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RERCCWYE
 
 [Document4]
 DocumentPath=Fabrication_Drawing.PCBDwf
@@ -115,7 +115,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LTXEYYUO
 
 [Document5]
 DocumentPath=Breakout_24pin.PcbDoc
