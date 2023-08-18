@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=MfgPackage.OutJob
+Name=
 Description=
 TargetOutputMedium=3D Files
 VariantName=Mfg
@@ -199,9 +199,11 @@ Configuration9_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsIn
 Configuration9_Name3=GroupOrder
 Configuration9_Item3=Comment=True|Footprint=True
 Configuration9_Name4=SortOrder
-Configuration9_Item4=Designator=Up|Comment=Up|Footprint=Up
+Configuration9_Item4=Designator=Up
 Configuration9_Name5=VisibleOrder
-Configuration9_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+Configuration9_Item5=Designator=120|Description=120|Manufacturer 1=100|Manufacturer Part Number 1=100|Quantity=120
+Configuration9_Name6=VisibleOrder_Flat
+Configuration9_Item6=Designator=120|Description=120|Manufacturer 1=100|Manufacturer Part Number 1=100|Quantity=120
 OutputType10=ExportSTEP
 OutputName10=Export STEP
 OutputCategory10=Export
@@ -238,7 +240,7 @@ Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\PCB1.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\ES-+'ProjectName'.PDF
+OutputFilePath2=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\ES-Segger_DebugBoard.pdf
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for Segger_DebugBoard
 OutputPathMedia2=
@@ -246,10 +248,10 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Job1.PDF
+OutputFileName2=MfgPackage.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
-OutputFileNameSpecial2=='ES-'+ProjectName+'.pdf'
+OutputFileNameSpecial2=='ES-'+ProjectName+'-Rev'+Rev
 OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=0
@@ -265,7 +267,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\jocap\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\
+OutputFilePath3=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevB_PCB_Files\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for Segger_DebugBoard
 OutputPathMedia3==ProjectName+'-Rev'+Rev+'_PCB_Files'
@@ -305,7 +307,7 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 PDFACompliance4=Disabled
 PDFVersion4=Default
-OutputFilePath5=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\MfgPackage.PDF
+OutputFilePath5=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevB_PCBA_Files\Assembly_Drawing.PDF
 ReleaseManaged5=1
 OutputBasePath5=Project Outputs for Segger_DebugBoard
 OutputPathMedia5==ProjectName+'-Rev'+Rev+'_PCBA_Files'
@@ -332,7 +334,7 @@ ShowComponentParameters5=1
 GlobalBookmarks5=0
 PDFACompliance5=Disabled
 PDFVersion5=Default
-OutputFilePath6=C:\Users\jocap\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCBA_Files\
+OutputFilePath6=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevB_PCBA_Files\
 ReleaseManaged6=1
 OutputBasePath6=Project Outputs for Segger_DebugBoard
 OutputPathMedia6==ProjectName+'-Rev'+Rev+'_PCBA_Files'
@@ -345,7 +347,7 @@ OutputFileNameMulti6=
 UseOutputNameForMulti6=1
 OutputFileNameSpecial6=
 OpenOutput6=1
-OutputFilePath7=C:\Users\jocap\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCBA_Files\
+OutputFilePath7=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevB_PCBA_Files\
 ReleaseManaged7=1
 OutputBasePath7=Project Outputs for Segger_DebugBoard
 OutputPathMedia7==ProjectName+'-Rev'+Rev+'_PCBA_Files'
@@ -358,7 +360,7 @@ OutputFileNameMulti7=
 UseOutputNameForMulti7=1
 OutputFileNameSpecial7=
 OpenOutput7=1
-OutputFilePath8=C:\Users\jocap\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\
+OutputFilePath8=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\
 ReleaseManaged8=1
 OutputBasePath8=Project Outputs for Segger_DebugBoard
 OutputPathMedia8=
@@ -373,9 +375,9 @@ OutputFileNameSpecial8=
 OpenOutput8=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\ES-+'ProjectName'.PDF
+RelativeOutputPath2=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\ES-Segger_DebugBoard.pdf
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\jocap\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\
+RelativeOutputPath3=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevB_PCB_Files\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
@@ -387,9 +389,9 @@ OpenIPCOutput3=0
 EnableReload3=0
 RelativeOutputPath4=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\MfgPackage.PDF
 OpenOutputs4=1
-RelativeOutputPath5=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\MfgPackage.PDF
+RelativeOutputPath5=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevB_PCBA_Files\Assembly_Drawing.PDF
 OpenOutputs5=1
-RelativeOutputPath6=C:\Users\jocap\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCBA_Files\
+RelativeOutputPath6=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevB_PCBA_Files\
 OpenOutputs6=1
 AddToProject6=1
 TimestampFolder6=0
@@ -399,7 +401,7 @@ OpenGerberOutput6=0
 OpenNCDrillOutput6=0
 OpenIPCOutput6=0
 EnableReload6=0
-RelativeOutputPath7=C:\Users\jocap\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCBA_Files\
+RelativeOutputPath7=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevB_PCBA_Files\
 OpenOutputs7=1
 AddToProject7=1
 TimestampFolder7=0
@@ -409,7 +411,7 @@ OpenGerberOutput7=0
 OpenNCDrillOutput7=0
 OpenIPCOutput7=0
 EnableReload7=0
-RelativeOutputPath8=C:\Users\jocap\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\
+RelativeOutputPath8=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\
 OpenOutputs8=1
 AddToProject8=1
 TimestampFolder8=0

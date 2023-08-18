@@ -1,1 +1,12 @@
-ee/Altium/Segger_DebugBoard/Project Outputs for Segger_DebugBoard/*
+*.LOG
+*.SchDocPreview
+*.PcbDocPreview
+*.htm
+*.html
+*.drc
+Altium\*\__Previews\*
+Altium/*/History/*
+*.PrjPCBStructure
+*~*
+*.net
+*.zip
