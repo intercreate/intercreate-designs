@@ -1,0 +1,152 @@
+*************************************************************
+FileName = Breakout_10pin.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Solder
+      File : Breakout_10pin.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Breakout_10pin.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Breakout_10pin.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Breakout_10pin.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Breakout_10pin.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Breakout_10pin.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Breakout_10pin.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Breakout_10pin.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Breakout_10pin.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Breakout_10pin.GM
+
+
+Used DCodes :
+    D27
+*************************************************************
+

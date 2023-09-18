@@ -1,0 +1,198 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 26.99999934 22.93509002 0 N J1 61301011121 ;0=2,1=0.0000
+PRP Category 'Headers and Wire Housings'
+PRP Color 'Black'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/738/6130xx11121-738550.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/738/6130xx11121-738550.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/7631/1442175-7631321.pdf?src-supplier=Element14'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/7631/1442175-7631321.pdf?src-supplier=Element14'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/48700/001088187-da-01-en-wr-phd-tht-stiftleiste-61301011121-48700876.pdf?src-supplier=Conrad'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/48700/001088187-da-01-en-wr-phd-tht-stiftleiste-61301011121-48700876.pdf?src-supplier=Conrad'
+PRP Connector_Type 'Header'
+PRP Contact_Finish_-_Mating 'GOLD'
+PRP Contact_Gender 'Male'
+PRP Contact_Material 'Copper Alloy,Copper'
+PRP Contact_Plating 'Gold'
+PRP Contact_Shape 'Square'
+PRP Contact_Type 'Male Pin'
+PRP Current_Rating '3A'
+PRP Fastening_Type 'Pull'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Male'
+PRP Height '11.54mm'
+PRP Housing_Material 'PBT'
+PRP Insulation_Color 'Black'
+PRP Insulation_Material 'Nylon'
+PRP Insulation_Resistance '1GR'
+PRP Length '2.54mm'
+PRP Manufacturer_1 'Wurth Electronics'
+PRP Manufacturer_Part_Number_1 '61301011121'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Through Hole'
+PRP Number_of_Contacts '10'
+PRP Number_of_Positions '10'
+PRP Number_of_Rows '1'
+PRP Orientation 'Straight'
+PRP Packaging 'Bulk'
+PRP Pitch '2.54mm'
+PRP Pricing '1=0.65, 10=0.65, 25=0.65, 50=0.65, 100=0.6 (USD)'
+PRP Reach_SVHC_Compliant 'Unknown'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'WR-PHD'
+PRP Stock '997'
+PRP Supplier 'Newark'
+PRP Supplier_Part_Number '16T0627'
+PRP Termination 'Solder'
+PRP Voltage_Rating '250V'
+PRP Width '25.4mm'
+TOP 0 15.56999934 22.93509002 0 N 3 2 1
+TOP 1 18.10999934 22.93509002 0 N 4 2 2
+TOP 2 20.64999934 22.93509002 0 N 5 2 3
+TOP 3 23.19000188 22.93509002 0 N 6 2 4
+TOP 4 25.72999934 22.93509002 0 N 7 2 5
+TOP 5 28.26999934 22.93509002 0 N 8 2 6
+TOP 6 30.80999934 22.93509002 0 N 9 2 7
+TOP 7 33.35000188 22.93509002 0 N 10 2 8
+TOP 8 35.89000188 22.93509002 0 N 2 2 9
+TOP 9 38.43000188 22.93509002 0 N 1 2 10
+#
+# CMP 1
+CMP 3 3.00000162 2.99999908 270 N M4 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 3.00000162 2.99999908 270 N 0 4 1
+#
+# CMP 2
+CMP 3 3.00000162 21.99999918 270 N M3 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 3.00000162 21.99999918 270 N 0 5 1
+#
+# CMP 3
+CMP 3 52.00000014 21.99999918 270 N M2 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 52.00000014 21.99999918 270 N 0 6 1
+#
+# CMP 4
+CMP 3 52.00000014 2.99999908 270 N M1 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 52.00000014 2.99999908 270 N 0 7 1
+#
+# CMP 5
+CMP 0 26.99999934 2.2721824 0 N J3 FFC2B28-10-G ;0=1,1=0.0000
+PRP Category 'Connectors'
+PRP Manufacturer_1 'Global Connector Technology'
+PRP Manufacturer_Part_Number_1 'FFC2B28-10-G'
+PRP Pricing '1=0.515, 250=0.397, 500=0.357, 1000=0.325, 4000=0.325, 5000=0.298 (USD)'
+PRP RoHS 'No'
+PRP Stock '3980'
+PRP Supplier 'Newark'
+PRP Supplier_Part_Number '90AJ6008'
+TOP 0 24.75000384 3.52218244 0 N 3 1 1
+TOP 1 25.25000284 3.52218244 0 N 4 1 2
+TOP 2 25.75000438 3.52218244 0 N 5 1 3
+TOP 3 26.25000338 3.52218244 0 N 6 1 4
+TOP 4 26.75000238 3.52218244 0 N 7 1 5
+TOP 5 27.25000392 3.52218244 0 N 8 1 6
+TOP 6 27.75000292 3.52218244 0 N 9 1 7
+TOP 7 28.25000446 3.52218244 0 N 10 1 8
+TOP 8 28.75000346 3.52218244 0 N 2 1 9
+TOP 9 29.250005 3.52218244 0 N 1 1 10
+TOP 10 23.8000032 1.02218236 180 N 0 3 ME1
+TOP 11 30.20000056 1.02218236 0 N 0 2 ME2
+#

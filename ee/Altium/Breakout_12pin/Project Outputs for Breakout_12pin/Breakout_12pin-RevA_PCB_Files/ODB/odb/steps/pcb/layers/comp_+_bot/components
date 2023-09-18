@@ -1,0 +1,64 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 26.99999934 3.8291008 0 N J2 XF3M(1)-1215-1B ;0=1,1=0.0000
+PRP Actuator_Color 'Black'
+PRP Actuator_Material 'Polymer,Liquid Crystal Polymer'
+PRP Category 'FFC / FPC'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/24242/xf3m-0813-272395-24242220.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/24242/xf3m-0813-272395-24242220.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/48563/en-xf3m-48563820.pdf?src-supplier=Avnet'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/48563/en-xf3m-48563820.pdf?src-supplier=Avnet'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/29758/xf3m-0813-29758631.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/29758/xf3m-0813-29758631.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/29758/xf3m-0813-29758637.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/29758/xf3m-0813-29758637.pdf?src-supplier=Digi-Key'
+PRP Contact_Location 'Dual'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Plating 'Gold'
+PRP Current_Rating '500mA'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Polymer'
+PRP Insulation_Resistance '100MR'
+PRP Manufacturer_1 'Omron'
+PRP Manufacturer_Part_Number_1 'XF3M(1)-1215-1B'
+PRP Mating_Cycles '20'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-30°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Positions '12'
+PRP Number_of_Rows '1'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '1500'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '1mm'
+PRP Pricing '1=1.62, 10=1.406, 25=1.3464, 50=1.3166, 100=1.2567, 250=1.137, 500=1.04724 (USD)'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'XF3M'
+PRP Stock '181'
+PRP Supplier 'Digi-Key'
+PRP Supplier_Part_Number 'OR1212CT-ND'
+PRP Termination 'Solder'
+PRP Voltage_Rating '50V'
+TOP 0 32.49999596 5.45410136 180 N 1 0 1
+TOP 1 31.49999542 5.45410136 180 N 2 0 2
+TOP 2 30.49999488 5.45410136 180 N 3 0 3
+TOP 3 29.49999688 5.45410136 180 N 4 0 4
+TOP 4 28.49999634 5.45410136 180 N 5 0 5
+TOP 5 27.4999958 5.45410136 180 N 6 0 6
+TOP 6 26.49999526 5.45410136 180 N 7 0 7
+TOP 7 25.49999472 5.45410136 180 N 8 0 8
+TOP 8 24.49999418 5.45410136 180 N 9 0 9
+TOP 9 23.49999364 5.45410136 180 N 10 0 10
+TOP 10 22.4999931 5.45410136 180 N 11 0 11
+TOP 11 21.49999256 5.45410136 180 N 12 0 12
+TOP 12 34.89999624 2.20410278 180 N 0 1 ME1
+TOP 13 19.0999999 2.20410278 0 N 0 0 ME2
+#

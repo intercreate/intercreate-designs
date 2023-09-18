@@ -1,0 +1,173 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 26.99999934 22.93509002 0 N J1 61300611121 ;0=2,1=0.0000
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/445/6130xx11121-538006.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/445/6130xx11121-538006.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'https://katalog.we-online.de/em/datasheet/6130xx11121.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://katalog.we-online.de/em/datasheet/6130xx11121.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'http://www.farnell.com/cad/1737268.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'http://www.farnell.com/cad/1737268.pdf?src-supplier=Element14'
+PRP Connector_Type 'Male Pin'
+PRP Contact_Gender 'Male'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Mating_Length '0.236inch'
+PRP Contact_Plating 'Gold'
+PRP Current_Rating '3A'
+PRP Gender 'Male'
+PRP Housing_Material 'PBT'
+PRP Lead_Free 'Lead Free'
+PRP Manufacturer_1 'Wurth Electronics'
+PRP Manufacturer_Part_Number_1 '61300611121'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Contacts '6'
+PRP Number_of_Positions '6'
+PRP Number_of_Rows '1'
+PRP Packaging 'Bulk'
+PRP Pitch '0.1inch'
+PRP Pricing_1 '1=0.33000, 10=0.27900, 25=0.23200, 50=0.19400, 100=0.17600, 1000=0.16000 (USD)'
+PRP REACH_SVHC 'Unknown'
+PRP RoHS 'Yes'
+PRP Stock_1 '13863'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '732-5319-ND'
+PRP Termination 'Through Hole'
+PRP Voltage_Rating '250V'
+TOP 0 20.64999934 22.93509002 0 N 6 2 1
+TOP 1 23.18999934 22.93509002 0 N 5 2 2
+TOP 2 25.72999934 22.93509002 0 N 4 2 3
+TOP 3 28.27000188 22.93509002 0 N 3 2 4
+TOP 4 30.80999934 22.93509002 0 N 2 2 5
+TOP 5 33.34999934 22.93509002 0 N 1 2 6
+#
+# CMP 1
+CMP 3 3.00000162 2.99999908 270 N M4 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 3.00000162 2.99999908 270 N 0 4 1
+#
+# CMP 2
+CMP 3 3.00000162 21.99999918 270 N M3 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 3.00000162 21.99999918 270 N 0 5 1
+#
+# CMP 3
+CMP 3 52.00000014 21.99999918 270 N M2 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 52.00000014 21.99999918 270 N 0 6 1
+#
+# CMP 4
+CMP 3 52.00000014 2.99999908 270 N M1 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 52.00000014 2.99999908 270 N 0 7 1
+#
+# CMP 5
+CMP 0 26.99999934 2.2721824 0 N J3 FFC2B28-06-G ;0=1,1=0.0000
+PRP Manufacturer_1 'Global Connector Technology'
+PRP Manufacturer_Part_Number_1 'FFC2B28-06-G'
+PRP Number_of_Positions '6'
+PRP Pitch '0.5mm'
+TOP 0 25.75000184 3.52218244 0 N 6 0 1
+TOP 1 26.25000084 3.52218244 0 N 5 0 2
+TOP 2 26.75000238 3.52218244 0 N 4 0 3
+TOP 3 27.25000138 3.52218244 0 N 3 0 4
+TOP 4 27.75000038 3.52218244 0 N 2 0 5
+TOP 5 28.25000192 3.52218244 0 N 1 0 6
+TOP 6 24.8000012 1.02218236 180 N 0 0 ME1
+TOP 7 29.20000002 1.02218236 0 N 0 1 ME2
+#

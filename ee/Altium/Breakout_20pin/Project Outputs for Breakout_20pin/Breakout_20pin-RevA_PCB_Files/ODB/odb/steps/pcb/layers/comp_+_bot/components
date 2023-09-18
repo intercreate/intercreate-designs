@@ -1,0 +1,62 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 26.99999934 3.8291008 0 N J2 XF3M(1)-2015-1B ;0=1,1=0.0000
+PRP Actuator_Color 'Black'
+PRP Actuator_Material 'Polymer,Liquid Crystal Polymer'
+PRP Category 'FFC / FPC'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/48563/en-xf3m-48563770.pdf?src-supplier=Avnet'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/48563/en-xf3m-48563770.pdf?src-supplier=Avnet'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Plating 'Gold'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Polymer'
+PRP Manufacturer_1 'Omron'
+PRP Manufacturer_Part_Number_1 'XF3M(1)-2015-1B'
+PRP Mating_Cycles '20'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-30°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Positions '20'
+PRP Number_of_Rows '1'
+PRP Orientation 'Right Angle'
+PRP Packaging 'Cut Tape'
+PRP Pitch '1mm'
+PRP Pricing '1500=1.26 (USD)'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'XF3M'
+PRP Stock '4134'
+PRP Supplier 'Newark'
+PRP Supplier_Part_Number '40AJ2875'
+PRP Termination 'Solder'
+PRP Voltage_Rating '50V'
+TOP 0 36.49999558 5.45410136 180 N 1 0 1
+TOP 1 35.49999504 5.45410136 180 N 2 0 2
+TOP 2 34.4999945 5.45410136 180 N 3 0 3
+TOP 3 33.4999965 5.45410136 180 N 4 0 4
+TOP 4 32.49999596 5.45410136 180 N 5 0 5
+TOP 5 31.49999542 5.45410136 180 N 6 0 6
+TOP 6 30.49999488 5.45410136 180 N 7 0 7
+TOP 7 29.49999434 5.45410136 180 N 8 0 8
+TOP 8 28.4999938 5.45410136 180 N 9 0 9
+TOP 9 27.49999326 5.45410136 180 N 10 0 10
+TOP 10 26.49999272 5.45410136 180 N 11 0 11
+TOP 11 25.49999218 5.45410136 180 N 12 0 12
+TOP 12 24.49999164 5.45410136 180 N 13 0 13
+TOP 13 23.4999911 5.45410136 180 N 14 0 14
+TOP 14 22.49999056 5.45410136 180 N 15 0 15
+TOP 15 21.49999002 5.45410136 180 N 16 0 16
+TOP 16 20.49998948 5.45410136 180 N 17 0 17
+TOP 17 19.49998894 5.45410136 180 N 18 0 18
+TOP 18 18.4999884 5.45410136 180 N 19 0 19
+TOP 19 17.49998786 5.45410136 180 N 20 0 20
+TOP 20 38.89999586 2.20410278 180 N 0 0 ME1
+TOP 21 15.10000028 2.20410278 0 N 0 1 ME2
+#

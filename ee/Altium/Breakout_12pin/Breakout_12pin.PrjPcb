@@ -139,173 +139,346 @@ UniqueID=AD1F1A73-33BE-4D71-923F-91E0AF751D58
 Description=Mfg
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
+VariationCount=7
 Variation1=Designator=J1|UniqueId=\DJONBWOR|Kind=1|AlternatePart= 
 Variation2=Designator=J1|UniqueId=\MWUIBOEC|Kind=1|AlternatePart= 
 Variation3=Designator=J1|UniqueId=\STGRJABE|Kind=1|AlternatePart= 
 Variation4=Designator=J1|UniqueId=\TEZLETOH|Kind=1|AlternatePart= 
 Variation5=Designator=J1|UniqueId=\EYKPBCWL|Kind=1|AlternatePart= 
 Variation6=Designator=J1|UniqueId=\NYKUUFNP|Kind=1|AlternatePart= 
+Variation7=Designator=J1|UniqueId=\EUJFOWTA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\IPC2581\Breakout_4pin.cvg
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCBA_Files\BOM\Bill of Materials-Breakout_12pin(Mfg).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\NC Drill\Breakout_4pin.DRR
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\IPC2581\Breakout_4pin.cvg
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.EXTREP
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\NC Drill\Breakout_4pin.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GBL
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GBO
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GBP
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GBS
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GM
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GM1
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GM
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GTL
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GTO
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GTP
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GTS
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\NC Drill\Breakout_4pin.LDP
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.REP
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\NC Drill\Breakout_4pin.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\Breakout_4pin.REP
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.RUL
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\Breakout_4pin.REP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\NC Drill\Breakout_4pin.TXT
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\Gerber\Breakout_4pin.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\NC Drill\Breakout_4pin.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for Breakout_12pin\3D Files\Breakout_12pin(Mfg).step
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for Breakout_12pin\3D Files\Breakout_12pin(Mfg).x_t
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Breakout_4pin\Design Rule Check - Breakout_4pin.html
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\IPC2581\Breakout_12pin.cvg
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\NC Drill\Breakout_12pin.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.GM
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\NC Drill\Breakout_12pin.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\matrix\matrix
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.REP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\Breakout_12pin.REP
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\profile
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\Gerber\Breakout_12pin.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\NC Drill\Breakout_12pin.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument40]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Breakout_4pin\Design Rule Check - Breakout_4pin.html
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCBA_Files\Pick Place\Pick Place for Breakout_12pin(Mfg).txt
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
 DocumentPath=Project Outputs for Breakout_4pin\Breakout_4pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for Breakout_12pin\Breakout_12pin-RevA_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Parameter1]

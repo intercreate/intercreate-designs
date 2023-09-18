@@ -1,0 +1,50 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 26.99999934 3.8291008 0 N J2 XF3M(1)-0615-1B ;0=1,1=0.0000
+PRP Actuator_Color 'Black'
+PRP Actuator_Material 'Polymer,Liquid Crystal Polymer'
+PRP Category 'FFC / FPC'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/48563/en-xf3m-48563813.pdf?src-supplier=Avnet'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/48563/en-xf3m-48563813.pdf?src-supplier=Avnet'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Plating 'Gold'
+PRP Current_Rating '500mA'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Polymer'
+PRP Manufacturer_1 'Omron'
+PRP Manufacturer_Part_Number_1 'XF3M(1)-0615-1B'
+PRP Mating_Cycles '20'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-30°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Positions '6'
+PRP Number_of_Rows '1'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '1500'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '0.039inch'
+PRP Pricing '1=1.22, 10=1.05, 25=0.991, 50=0.958, 100=0.945, 250=0.915, 500=0.86, 1000=0.765 (USD)'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'XF3M'
+PRP Stock '212'
+PRP Supplier 'Newark'
+PRP Supplier_Part_Number '46Y1126'
+PRP Termination 'Solder'
+PRP Voltage_Rating '50V'
+TOP 0 29.49999688 5.45410136 180 N 1 1 1
+TOP 1 28.49999634 5.45410136 180 N 2 1 2
+TOP 2 27.4999958 5.45410136 180 N 3 1 3
+TOP 3 26.4999978 5.45410136 180 N 4 1 4
+TOP 4 25.49999726 5.45410136 180 N 5 1 5
+TOP 5 24.49999672 5.45410136 180 N 6 1 6
+TOP 6 31.89999716 2.20410278 180 N 0 3 ME1
+TOP 7 22.09999644 2.20410278 0 N 0 2 ME2
+#

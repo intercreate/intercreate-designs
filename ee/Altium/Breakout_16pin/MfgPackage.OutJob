@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=MfgPackage.OutJob
 Description=
-TargetOutputMedium=Fabrication Files
+TargetOutputMedium=3D Files
 VariantName=Mfg
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=HPDD67FF (HP OfficeJet 4650 series)
+TargetPrinter=POLONO PL60
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -56,7 +56,7 @@ OutputEnabled1_OutputMedium6=0
 OutputEnabled1_OutputMedium7=0
 OutputEnabled1_OutputMedium8=0
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Custom(101.6mm * 152.4mm)|PaperIndex=256
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
 OutputType2=Gerber
@@ -64,7 +64,7 @@ OutputName2=Gerber Files
 OutputCategory2=Fabrication
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=1
@@ -81,7 +81,7 @@ OutputName3=IPC-2581 Files
 OutputCategory3=Fabrication
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=2
@@ -98,7 +98,7 @@ OutputName4=NC Drill Files
 OutputCategory4=Fabrication
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=3
@@ -115,7 +115,7 @@ OutputName5=ODB++ Files
 OutputCategory5=Fabrication
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=1
+OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=4
@@ -209,7 +209,7 @@ OutputName10=Export STEP
 OutputCategory10=Export
 OutputDocumentPath10=
 OutputVariantName10=
-OutputEnabled10=0
+OutputEnabled10=1
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=0
@@ -226,7 +226,7 @@ OutputName11=Export PARASOLID
 OutputCategory11=Export
 OutputDocumentPath11=
 OutputVariantName11=
-OutputEnabled11=0
+OutputEnabled11=1
 OutputEnabled11_OutputMedium1=0
 OutputEnabled11_OutputMedium2=0
 OutputEnabled11_OutputMedium3=0
@@ -242,7 +242,7 @@ Configuration11_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModel
 [PublishSettings]
 OutputFilePath2=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\ES-+'ProjectName'.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Breakout_4pin
+OutputBasePath2=Project Outputs for Breakout_16pin
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -267,9 +267,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\Intercreate_Template-RevA_PCB_Files\
+OutputFilePath3=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_16pin\Project Outputs for Breakout_16pin\Breakout_16pin-RevA_PCB_Files\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Breakout_4pin
+OutputBasePath3=Project Outputs for Breakout_16pin
 OutputPathMedia3==ProjectName+'-Rev'+Rev+'_PCB_Files'
 OutputPathMediaValue3==ProjectName+'-Rev'+Rev+'_PCB_Files'
 OutputPathOutputer3=[Output Type]
@@ -282,7 +282,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\MfgPackage.PDF
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Breakout_4pin
+OutputBasePath4=Project Outputs for Breakout_16pin
 OutputPathMedia4==ProjectName+'-Rev'+Rev+'_PCB_Files'
 OutputPathMediaValue4==ProjectName+'-Rev'+Rev+'_PCB_Files'
 OutputPathOutputer4=[Output Type]
@@ -309,7 +309,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 OutputFilePath5=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\MfgPackage.PDF
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for Breakout_4pin
+OutputBasePath5=Project Outputs for Breakout_16pin
 OutputPathMedia5==ProjectName+'-Rev'+Rev+'_PCBA_Files'
 OutputPathMediaValue5==ProjectName+'-Rev'+Rev+'_PCBA_Files'
 OutputPathOutputer5=[Output Type]
@@ -334,9 +334,9 @@ ShowComponentParameters5=1
 GlobalBookmarks5=0
 PDFACompliance5=Disabled
 PDFVersion5=Default
-OutputFilePath6=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\Intercreate_Template-RevA_PCBA_Files\
+OutputFilePath6=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_16pin\Project Outputs for Breakout_16pin\Breakout_16pin-RevA_PCBA_Files\
 ReleaseManaged6=1
-OutputBasePath6=Project Outputs for Breakout_4pin
+OutputBasePath6=Project Outputs for Breakout_16pin
 OutputPathMedia6==ProjectName+'-Rev'+Rev+'_PCBA_Files'
 OutputPathMediaValue6==ProjectName+'-Rev'+Rev+'_PCBA_Files'
 OutputPathOutputer6=[Output Type]
@@ -347,9 +347,9 @@ OutputFileNameMulti6=
 UseOutputNameForMulti6=1
 OutputFileNameSpecial6=
 OpenOutput6=1
-OutputFilePath7=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\
+OutputFilePath7=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_16pin\Project Outputs for Breakout_16pin\Breakout_16pin-RevA_PCBA_Files\
 ReleaseManaged7=1
-OutputBasePath7=Project Outputs for Breakout_4pin
+OutputBasePath7=Project Outputs for Breakout_16pin
 OutputPathMedia7==ProjectName+'-Rev'+Rev+'_PCBA_Files'
 OutputPathMediaValue7==ProjectName+'-Rev'+Rev+'_PCBA_Files'
 OutputPathOutputer7=[Output Type]
@@ -360,9 +360,9 @@ OutputFileNameMulti7=
 UseOutputNameForMulti7=1
 OutputFileNameSpecial7=
 OpenOutput7=1
-OutputFilePath8=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\
+OutputFilePath8=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_16pin\Project Outputs for Breakout_16pin\
 ReleaseManaged8=1
-OutputBasePath8=Project Outputs for Breakout_4pin
+OutputBasePath8=Project Outputs for Breakout_16pin
 OutputPathMedia8=
 OutputPathMediaValue8=
 OutputPathOutputer8=[Output Custom]
@@ -377,7 +377,7 @@ OpenOutput8=1
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\ES-+'ProjectName'.PDF
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\Intercreate_Template-RevA_PCB_Files\
+RelativeOutputPath3=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_16pin\Project Outputs for Breakout_16pin\Breakout_16pin-RevA_PCB_Files\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
@@ -391,7 +391,7 @@ RelativeOutputPath4=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercrea
 OpenOutputs4=1
 RelativeOutputPath5=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\MfgPackage.PDF
 OpenOutputs5=1
-RelativeOutputPath6=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\Intercreate_Template-RevA_PCBA_Files\
+RelativeOutputPath6=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_16pin\Project Outputs for Breakout_16pin\Breakout_16pin-RevA_PCBA_Files\
 OpenOutputs6=1
 AddToProject6=1
 TimestampFolder6=0
@@ -401,7 +401,7 @@ OpenGerberOutput6=0
 OpenNCDrillOutput6=0
 OpenIPCOutput6=0
 EnableReload6=0
-RelativeOutputPath7=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\
+RelativeOutputPath7=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_16pin\Project Outputs for Breakout_16pin\Breakout_16pin-RevA_PCBA_Files\
 OpenOutputs7=1
 AddToProject7=1
 TimestampFolder7=0
@@ -411,7 +411,7 @@ OpenGerberOutput7=0
 OpenNCDrillOutput7=0
 OpenIPCOutput7=0
 EnableReload7=0
-RelativeOutputPath8=C:\Users\jocap\Documents\Intercreate\Altium Assets\Intercreate_Template\Project Outputs for Intercreate_Template\
+RelativeOutputPath8=C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_16pin\Project Outputs for Breakout_16pin\
 OpenOutputs8=1
 AddToProject8=1
 TimestampFolder8=0

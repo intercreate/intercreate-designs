@@ -1,0 +1,206 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 26.99999934 21.21400126 0 N J1 68602-116HLF ;0=2,1=0.0000
+PRP Category 'Headers and Wire Housings'
+PRP Color 'Black'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/5157/67996-225486-5157197.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/5157/67996-225486-5157197.pdf?src-supplier=Mouser'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/9465/67996-9465931.pdf?src-supplier=Avnet'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/9465/67996-9465931.pdf?src-supplier=Avnet'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/728/67996-728940.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/728/67996-728940.pdf?src-supplier=Digi-Key'
+PRP Contact_Gender 'Male'
+PRP Contact_Material 'Bronze'
+PRP Contact_Mating_Length '0.23inch'
+PRP Contact_Plating 'Gold,GXT'
+PRP Contact_Post_Length '3.81mm'
+PRP Contact_Type 'Male Pin'
+PRP Current_Rating '3A'
+PRP Depth '4.83mm'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Male'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Thermoplastic'
+PRP Insulation_Resistance '5GR'
+PRP Length '20.32mm'
+PRP Manufacturer_1 'Amphenol ICC / FCI'
+PRP Manufacturer_Part_Number_1 '68602-116HLF'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Voltage_Rating_(AC) '1.5kV'
+PRP Min_Operating_Temperature '-65°C'
+PRP Mounting_Technology 'Through Hole'
+PRP Number_of_Contacts '16'
+PRP Number_of_Positions '16'
+PRP Number_of_Rows '2'
+PRP Orientation 'Straight'
+PRP Package_Quantity '100'
+PRP Packaging 'Bulk'
+PRP Pitch '2.54mm'
+PRP Pricing '1=1.38, 10=1.13, 25=1.12, 50=1.08, 100=1.07, 250=0.991, 300=0.991, 500=0.909, 1000=0.826 (USD)'
+PRP Radiation_Hardening 'No'
+PRP Reach_SVHC_Compliant 'No'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Row_Spacing '0.1inch'
+PRP Series 'BERGSTIK® II, MezzSelect™, Basics+'
+PRP Stock '800'
+PRP Supplier 'Newark'
+PRP Supplier_Part_Number '38AH4644'
+PRP Termination 'Solder'
+PRP Voltage_Rating '1.5kV'
+TOP 0 18.10999934 19.94400126 270 N 16 2 1
+TOP 1 18.10999934 22.48400126 270 N 15 2 2
+TOP 2 20.64999934 19.94400126 270 N 14 2 3
+TOP 3 20.64999934 22.48400126 270 N 13 2 4
+TOP 4 23.18999934 19.94400126 270 N 12 2 5
+TOP 5 23.18999934 22.48400126 270 N 11 2 6
+TOP 6 25.72999934 19.94400126 270 N 10 2 7
+TOP 7 25.72999934 22.48400126 270 N 9 2 8
+TOP 8 28.26999934 19.94400126 270 N 8 2 9
+TOP 9 28.26999934 22.48400126 270 N 7 2 10
+TOP 10 30.80999934 19.94400126 270 N 6 2 11
+TOP 11 30.80999934 22.48400126 270 N 5 2 12
+TOP 12 33.34999934 19.94400126 270 N 4 2 13
+TOP 13 33.34999934 22.48400126 270 N 3 2 14
+TOP 14 35.88999934 19.94400126 270 N 2 2 15
+TOP 15 35.88999934 22.48400126 270 N 1 2 16
+#
+# CMP 1
+CMP 3 3.00000162 2.99999908 270 N M4 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 3.00000162 2.99999908 270 N 0 4 1
+#
+# CMP 2
+CMP 3 3.00000162 21.99999918 270 N M3 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 3.00000162 21.99999918 270 N 0 5 1
+#
+# CMP 3
+CMP 3 52.00000014 21.99999918 270 N M2 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 52.00000014 21.99999918 270 N 0 6 1
+#
+# CMP 4
+CMP 3 52.00000014 2.99999908 270 N M1 MTG_HOLE ;0=2,1=1.8300
+PRP Actuator_Height_off_PCB__from_Pins ''
+PRP Actuator_Orientation ''
+PRP Assembly_Instruction ''
+PRP Circuit ''
+PRP ComponentLink1Description ''
+PRP ComponentLink1URL ''
+PRP Contact_Rating_@_Voltage ''
+PRP Illumination ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Mounting_Type ''
+PRP Number_of_Positions ''
+PRP Operating_Force ''
+PRP Outline ''
+PRP Series ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP Switch_Function ''
+PRP Terminal ''
+PRP Termination_Style ''
+PRP Type ''
+PRP Value ''
+PRP Washable ''
+TOP 0 52.00000014 2.99999908 270 N 0 7 1
+#
+# CMP 5
+CMP 0 26.99999934 2.27199952 0 N J3 FFC2B28-16-G ;0=1,1=0.0000
+PRP Manufacturer_1 'Global Connector Technology'
+PRP Manufacturer_Part_Number_1 'FFC2B28-16-G'
+PRP Number_of_Positions '16'
+PRP Pitch '0.5mm'
+TOP 0 23.25000176 3.52199956 0 N 16 1 1
+TOP 1 23.75000076 3.52199956 0 N 15 1 2
+TOP 2 24.2500023 3.52199956 0 N 14 1 3
+TOP 3 24.7500013 3.52199956 0 N 13 1 4
+TOP 4 25.2500003 3.52199956 0 N 12 1 5
+TOP 5 25.75000184 3.52199956 0 N 11 1 6
+TOP 6 26.25000084 3.52199956 0 N 10 1 7
+TOP 7 26.75000238 3.52199956 0 N 9 1 8
+TOP 8 27.25000138 3.52199956 0 N 8 1 9
+TOP 9 27.75000292 3.52199956 0 N 7 1 10
+TOP 10 28.25000192 3.52199956 0 N 6 1 11
+TOP 11 28.75000346 3.52199956 0 N 5 1 12
+TOP 12 29.25000246 3.52199956 0 N 4 1 13
+TOP 13 29.750004 3.52199956 0 N 3 1 14
+TOP 14 30.250003 3.52199956 0 N 2 1 15
+TOP 15 30.75000454 3.52199956 0 N 1 1 16
+TOP 16 22.30000112 1.02199948 180 N 0 3 ME1
+TOP 17 31.69999756 1.02199948 0 N 0 2 ME2
+#

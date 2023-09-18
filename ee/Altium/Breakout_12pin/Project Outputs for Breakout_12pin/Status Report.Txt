@@ -1,0 +1,10 @@
+Output: Export PARASOLID
+Type  : ExportSTEP
+From  : Variant [Mfg] of PCB Document [Breakout_12pin.PcbDoc]
+   Generated File[Breakout_12pin(Mfg).x_t]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:48:39 AM On 9/18/2023

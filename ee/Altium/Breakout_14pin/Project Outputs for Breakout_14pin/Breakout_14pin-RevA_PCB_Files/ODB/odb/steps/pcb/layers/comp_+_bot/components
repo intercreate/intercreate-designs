@@ -1,0 +1,55 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 26.99999934 3.8291008 0 N J2 XF3M(1)-1415-1B ;0=1,1=0.0000
+PRP Actuator_Color 'Black'
+PRP Actuator_Material 'Polymer,Liquid Crystal Polymer'
+PRP Category 'FFC / FPC'
+PRP ComponentLink1Description 'https://omronfs.omron.com/en_US/ecb/products/pdf/en-xf3m.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://omronfs.omron.com/en_US/ecb/products/pdf/en-xf3m.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://datasheet.octopart.com/XF3M%281%29-1415-1B-Omron-datasheet-67143948.pdf?src-supplier=Master+Electronics'
+PRP ComponentLink2URL 'https://datasheet.octopart.com/XF3M%281%29-1415-1B-Omron-datasheet-67143948.pdf?src-supplier=Master+Electronics'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Plating 'Gold'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Polymer'
+PRP Manufacturer_1 'Omron'
+PRP Manufacturer_Part_Number_1 'XF3M(1)-1415-1B'
+PRP Mating_Cycles '20'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-30°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Positions '14'
+PRP Packaging 'Cut Tape'
+PRP Pins '14'
+PRP Pricing '1=1.71, 10=1.491, 25=1.4272, 50=1.3954, 100=1.332, 250=1.20516, 500=1.11002 (USD)'
+PRP RoHS 'No'
+PRP Series 'XF3M'
+PRP Stock '3056'
+PRP Supplier 'Digi-Key'
+PRP Supplier_Part_Number 'Z5875CT-ND'
+PRP Termination 'Solder'
+PRP Voltage_Rating '50V'
+TOP 0 33.4999965 5.45410136 180 N 1 0 1
+TOP 1 32.49999596 5.45410136 180 N 2 0 2
+TOP 2 31.49999542 5.45410136 180 N 3 0 3
+TOP 3 30.49999742 5.45410136 180 N 4 0 4
+TOP 4 29.49999688 5.45410136 180 N 5 0 5
+TOP 5 28.49999634 5.45410136 180 N 6 0 6
+TOP 6 27.4999958 5.45410136 180 N 7 0 7
+TOP 7 26.49999526 5.45410136 180 N 8 0 8
+TOP 8 25.49999472 5.45410136 180 N 9 0 9
+TOP 9 24.49999418 5.45410136 180 N 10 0 10
+TOP 10 23.49999364 5.45410136 180 N 11 0 11
+TOP 11 22.4999931 5.45410136 180 N 12 0 12
+TOP 12 21.49999256 5.45410136 180 N 13 0 13
+TOP 13 20.49999202 5.45410136 180 N 14 0 14
+TOP 14 35.89999678 2.20410278 180 N 0 0 ME1
+TOP 15 18.09999936 2.20410278 0 N 0 1 ME2
+#

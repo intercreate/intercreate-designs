@@ -1,0 +1,72 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 26.99999934 3.8291008 0 N J2 XF3M(1)-0815-1B ;0=1,1=0.0000
+PRP Actuator_Color 'Black'
+PRP Actuator_Material 'Polymer,Liquid Crystal Polymer'
+PRP Category 'FFC / FPC'
+PRP ComponentLink1Description 'https://media.digikey.com/pdf/Data%20Sheets/Omron%20PDFs/XF3M.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://media.digikey.com/pdf/Data%20Sheets/Omron%20PDFs/XF3M.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Avnet'
+PRP ComponentLink2URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Avnet'
+PRP ComponentLink3Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Farnell'
+PRP ComponentLink3URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Farnell'
+PRP ComponentLink4Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Newark'
+PRP ComponentLink5URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Newark'
+PRP ComponentLink6Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Verical'
+PRP ComponentLink6URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Verical'
+PRP ComponentLink7Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink7URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Allied+Electronics'
+PRP ComponentLink8Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink8URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Onlinecomponents.com'
+PRP ComponentLink9Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Mouser'
+PRP ComponentLink9URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Mouser'
+PRP ComponentLink10Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=TTI'
+PRP ComponentLink10URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=TTI'
+PRP ComponentLink11Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Sager+Electronics'
+PRP ComponentLink11URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Sager+Electronics'
+PRP ComponentLink12Description 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Heilind+Electronics'
+PRP ComponentLink12URL 'http://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Heilind+Electronics'
+PRP ComponentLink13Description 'https://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Master+Electronics'
+PRP ComponentLink13URL 'https://datasheet.octopart.com/XF3M%281%29-0815-1B-Omron-datasheet-62282188.pdf?src-supplier=Master+Electronics'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Plating 'Gold'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Housing_Color 'Natural'
+PRP Housing_Material 'Polymer'
+PRP Manufacturer_1 'Omron'
+PRP Manufacturer_Part_Number_1 'XF3M(1)-0815-1B'
+PRP Mating_Cycles '20'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-30°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Number_of_Positions '8'
+PRP Packaging 'Cut Tape'
+PRP Pins '8'
+PRP Pricing '1500=0.6639, 3000=0.6476, 7500=0.6309, 10500=0.6071, 15000=0.5967 (USD)'
+PRP RoHS 'Yes'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'XF3M'
+PRP Stock '3000'
+PRP Supplier 'Arrow Electronics'
+PRP Supplier_Part_Number 'XF3M(1)-0815-1B'
+PRP Termination 'Solder'
+PRP Voltage_Rating '50V'
+TOP 0 30.49999488 5.45410136 180 N 1 0 1
+TOP 1 29.49999434 5.45410136 180 N 2 0 2
+TOP 2 28.4999938 5.45410136 180 N 3 0 3
+TOP 3 27.4999958 5.45410136 180 N 4 0 4
+TOP 4 26.49999526 5.45410136 180 N 5 0 5
+TOP 5 25.49999472 5.45410136 180 N 6 0 6
+TOP 6 24.49999418 5.45410136 180 N 7 0 7
+TOP 7 23.49999364 5.45410136 180 N 8 0 8
+TOP 8 32.89999516 2.20410278 180 N 0 0 ME1
+TOP 9 21.09999844 2.20410278 0 N 0 1 ME2
+#

@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_18pin\Project Outputs for Breakout_18pin\Breakout_18pin-RevA_PCBA_Files\Pick Place\Pick Place for Breakout_18pin(Mfg).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/09/23
+Time:       10:52
+Revision:   6917effdfee80ff498c39781719fc89ec244f0a2
+Variant:    Mfg
+Units used: mil
+
+Designator Comment         Layer       Footprint            Center-X(mil) Center-Y(mil) Rotation Description                                                    
+M4         MTG_HOLE        TopLayer    MH_P_2.5MM           118.110       118.110       90       "MTG HOLE PLATED VARIOUS SIZES"                                
+M3         MTG_HOLE        TopLayer    MH_P_2.5MM           118.110       866.142       90       "MTG HOLE PLATED VARIOUS SIZES"                                
+M2         MTG_HOLE        TopLayer    MH_P_2.5MM           2047.244      866.142       90       "MTG HOLE PLATED VARIOUS SIZES"                                
+M1         MTG_HOLE        TopLayer    MH_P_2.5MM           2047.244      118.110       90       "MTG HOLE PLATED VARIOUS SIZES"                                
+J2         XF3M(1)-1815-1B BottomLayer CONN-FFC-H-18P-1MM   1062.992      150.752       180      "FFC & FPC Connectors RotaryBackLock 1.0mm Dual Contact 18pin" 
+J3         FFC2B28-18-G    TopLayer    CONN-FFC-H-18P-0.5MM 1062.992      89.449        0        "18W, 0.5MM Ffc Con, R/a, Dual Cont,"                          
