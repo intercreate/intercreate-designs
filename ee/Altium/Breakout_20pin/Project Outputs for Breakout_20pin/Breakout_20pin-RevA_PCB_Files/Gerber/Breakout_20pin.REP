@@ -2,15 +2,30 @@
 FileName = Breakout_20pin.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : Breakout_20pin.GTO
+Generating : Board Outline
+      File : Breakout_20pin.GM1
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D10
     D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Breakout_20pin.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
 *************************************************************
 
 *************************************************************
@@ -27,61 +42,6 @@ Generating : Top Paste
 Used DCodes :
     D12
     D13
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Breakout_20pin.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Breakout_20pin.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D19
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Breakout_20pin.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
 *************************************************************
 
 *************************************************************
@@ -104,19 +64,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Breakout_20pin.GBP
+Generating : Top Solder
+      File : Breakout_20pin.GTS
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Top Solder
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D23
-    D24
+    D14
+    D15
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -131,14 +94,51 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : Breakout_20pin.GM1
+Generating : Top Overlay
+      File : Breakout_20pin.GTO
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
     D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Breakout_20pin.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Breakout_20pin.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D19
+    D20
+    D21
+    D22
 *************************************************************
 
 *************************************************************

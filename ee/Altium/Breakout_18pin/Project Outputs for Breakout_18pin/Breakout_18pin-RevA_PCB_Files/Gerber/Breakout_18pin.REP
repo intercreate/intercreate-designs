@@ -2,19 +2,31 @@
 FileName = Breakout_18pin.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : Breakout_18pin.GBP
+Generating : Top Overlay
+      File : Breakout_18pin.GTO
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Top Overlay
 
-    Adding Layer      : Bottom Layer
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Breakout_18pin.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D23
-    D24
+    D12
+    D13
 *************************************************************
 
 *************************************************************
@@ -37,46 +49,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : Breakout_18pin.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : Breakout_18pin.GM1
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Breakout_18pin.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : Breakout_18pin.GTL
 
@@ -95,19 +67,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : Breakout_18pin.GTP
+Generating : Bottom Layer
+      File : Breakout_18pin.GBL
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
-    D13
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
 *************************************************************
 
 *************************************************************
@@ -130,14 +104,40 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Breakout_18pin.GTO
+Generating : Bottom Paste
+      File : Breakout_18pin.GBP
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Breakout_18pin.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Breakout_18pin.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
     D11
 *************************************************************
 

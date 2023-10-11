@@ -2,13 +2,32 @@
 FileName = Breakout_6pin.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline
-      File : Breakout_6pin.GM1
+Generating : Top Layer
+      File : Breakout_6pin.GTL
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D12
+    D13
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Breakout_6pin.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
     D11
 *************************************************************
 
@@ -29,6 +48,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : Breakout_6pin.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : Breakout_6pin.GTP
 
@@ -45,10 +75,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Breakout_6pin.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : Breakout_6pin.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -56,11 +84,23 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D25
-    D26
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Breakout_6pin.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
 *************************************************************
 
 *************************************************************
@@ -83,31 +123,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Breakout_6pin.GBO
+Generating : Bottom Solder
+      File : Breakout_6pin.GBS
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Breakout_6pin.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Breakout_6pin.GBL
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -115,30 +134,11 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Breakout_6pin.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D19
-    D20
-    D21
-    D22
+    D16
+    D17
+    D18
+    D25
+    D26
 *************************************************************
 
 *************************************************************

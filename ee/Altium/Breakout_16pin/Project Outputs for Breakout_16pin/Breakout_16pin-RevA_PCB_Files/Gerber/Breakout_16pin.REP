@@ -2,24 +2,10 @@
 FileName = Breakout_16pin.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Paste
-      File : Breakout_16pin.GTP
+Generating : Bottom Paste
+      File : Breakout_16pin.GBP
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Breakout_16pin.GBL
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -27,65 +13,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D19
-    D20
-    D21
-    D22
     D23
     D24
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Breakout_16pin.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Breakout_16pin.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Breakout_16pin.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D25
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : Breakout_16pin.GM1
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D11
 *************************************************************
 
 *************************************************************
@@ -108,6 +37,46 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Layer
+      File : Breakout_16pin.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Breakout_16pin.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Breakout_16pin.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : Breakout_16pin.GTL
 
@@ -126,10 +95,26 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Breakout_16pin.GBP
+Generating : Top Paste
+      File : Breakout_16pin.GTP
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Breakout_16pin.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -137,8 +122,23 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D23
-    D24
+    D16
+    D17
+    D18
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Breakout_16pin.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
 *************************************************************
 
 *************************************************************

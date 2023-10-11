@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_6pin\Breakout_6pin.PcbDoc
+DRC Rules Export File for PCB: C:\Users\jerry\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_6pin\Breakout_6pin.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.03

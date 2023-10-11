@@ -2,21 +2,33 @@
 FileName = Breakout_12pin.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : Breakout_12pin.GBL
+Generating : Top Solder
+      File : Breakout_12pin.GTS
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Breakout_12pin.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
 *************************************************************
 
 *************************************************************
@@ -39,6 +51,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Paste
+      File : Breakout_12pin.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : Breakout_12pin.GTL
 
@@ -57,19 +85,33 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : Breakout_12pin.GTP
+Generating : Top Overlay
+      File : Breakout_12pin.GTO
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Top Overlay
 
-    Adding Layer      : Top Layer
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Breakout_12pin.GBL
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
-    D13
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
 *************************************************************
 
 *************************************************************
@@ -84,49 +126,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Breakout_12pin.GBP
+Generating : Top Paste
+      File : Breakout_12pin.GTP
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D23
-    D24
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Breakout_12pin.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Breakout_12pin.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Breakout_12pin.GTS
-
-    Adding Layer      : Top Solder
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -134,11 +137,8 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
+    D12
+    D13
 *************************************************************
 
 *************************************************************
