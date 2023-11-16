@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 10:49:41 AM On 9/18/2023
+Start Output Generation At 1:57:53 PM On 11/16/2023
 
 Output: Bill of Materials
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Variant [Mfg] of Project [Breakout_14pin.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:49:42 AM On 9/18/2023
+Finished Output Generation At 1:57:56 PM On 11/16/2023

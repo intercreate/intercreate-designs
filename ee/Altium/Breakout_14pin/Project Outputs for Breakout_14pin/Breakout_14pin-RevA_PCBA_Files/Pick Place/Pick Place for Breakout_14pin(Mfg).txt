@@ -4,9 +4,9 @@ C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Breakout_
 ========================================================================================================================
 File Design Information:
 
-Date:       18/09/23
-Time:       10:49
-Revision:   bdfc6441fb76a3a2f6e2da123a1ac62b6d89084f
+Date:       16/11/23
+Time:       13:57
+Revision:   354d1e07948418428416ae66ea7f2ffb8ac47dee
 Variant:    Mfg
 Units used: mil
 

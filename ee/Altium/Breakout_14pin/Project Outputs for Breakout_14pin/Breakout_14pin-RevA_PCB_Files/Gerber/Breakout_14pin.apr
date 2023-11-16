@@ -5,11 +5,11 @@ D13   RECTANGULAR        15.748      31.496       0.000 FLASH       0.000
 D14   RECTANGULAR        19.811      39.496       0.000 FLASH       0.000
 D15   RECTANGULAR        23.748      39.496       0.000 FLASH       0.000
 D16   ROUNDED            67.055      67.055       0.000 FLASH       0.000
-D17   RECTANGULAR        67.055      67.055       0.000 FLASH       0.000
+D17   RECTANGULAR        67.055      67.055       0.000 FLASH     180.000
 D18   ROUNDED           126.110     126.110       0.000 FLASH       0.000
 D19   ROUNDED             8.031       8.031       0.000  LINE       0.000
 D20   ROUNDED            59.055      59.055       0.000 FLASH       0.000
-D21   RECTANGULAR        59.055      59.055       0.000 FLASH       0.000
+D21   RECTANGULAR        59.055      59.055       0.000 FLASH     180.000
 D22   ROUNDED           118.110     118.110       0.000 FLASH       0.000
 D23   RECTANGULAR        70.866      86.614       0.000 FLASH       0.000
 D24   RECTANGULAR        23.622      51.181       0.000 FLASH     180.000
