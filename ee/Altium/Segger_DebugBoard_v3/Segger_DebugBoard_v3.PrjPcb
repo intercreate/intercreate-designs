@@ -275,74 +275,78 @@ DocumentPath=Project Outputs for Segger_DebugBoard\Design Rule Check - DebugBoar
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\features
+DocumentPath=Project Outputs for Segger_DebugBoard_v3\Design Rule Check - DebugBoard.html
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\matrix\matrix
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCBA_Files\Pick Place\Pick Place for DebugBoard(Mfg).txt
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\profile
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCBA_Files\Pick Place\Pick Place for DebugBoard(Mfg).txt
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument42]
+DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
 DocumentPath=Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevA_PCB_Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
@@ -1322,10 +1326,10 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
-PartTypes=0
+PartTypes=2
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
