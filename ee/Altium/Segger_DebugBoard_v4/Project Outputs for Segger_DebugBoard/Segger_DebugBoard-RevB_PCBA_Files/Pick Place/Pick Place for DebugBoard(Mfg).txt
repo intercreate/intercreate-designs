@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+C:\Users\jocap\OneDrive\Documents\GitHub\intercreate-designs\ee\Altium\Segger_DebugBoard\Project Outputs for Segger_DebugBoard\Segger_DebugBoard-RevB_PCBA_Files\Pick Place\Pick Place for DebugBoard(Mfg).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/08/23
+Time:       17:17
+Revision:   88050d2b53f4100acac820e3d2cf353e8fd9e1ea
+Variant:    Mfg
+Units used: mil
+
+Designator Comment                Layer    Footprint                 Center-X(mil) Center-Y(mil) Rotation Description                                                                                                           
+U1         MAX4516EUK+T           TopLayer IC-SOT-23-5               951.000       793.000       0        "MAX4516 Series SPST-NO 6V 20 Ohm SMT Analog Switch - SOT-23"                                                         
+J6         75160-101-01LF         TopLayer HDR-V-1X1-M               113.000       99.000        0        "BergStik®, Board to Board connector, Unshrouded vertical header, through hole, single Row, 1 position, 2.54mm pitch" 
+J2         SFH11-PBPC-D10-ST-BK   TopLayer HDR-V-2X10-F-2.54MM       649.000       1414.630      0        "20 Position Header Connector 0.100" (2.54mm) Through Hole Gold"                                                      
+SW1        "PTS645SK50SMTR92 LFS" TopLayer BTN-SPST-PTS645SK50SMTR92 590.000       1008.000      90       "C & K COMPONENTS - PTS645SK50SMTR92LFS - SWITCH, SPST, 0.05A, 12VDC, SMD, 5MM"                                       
+J5         61300311121            TopLayer HDR-V-1X3                 1187.000      964.000       270      "Header, 3-Pin, 0.1""                                                                                                 
+J4         75160-101-01LF         TopLayer HDR-V-1X1-M               110.000       564.472       270      "BergStik®, Board to Board connector, Unshrouded vertical header, through hole, single Row, 1 position, 2.54mm pitch" 
+J3         61300311121            TopLayer HDR-V-1X3                 216.257       1083.166      180      "Header, 3-Pin, 0.1""                                                                                                 
+J1         FTSH-105-01-L-DV-K     TopLayer HDR-V-2X5-M               670.000       258.000       270      "CONN HEADER 10 POS DUAL .05" SMD"                                                                                    
+D2         PMEG3010EP,115         TopLayer DIODE-SOD128              332.000       264.000       0        "DIODE SCHOTTKY 30V 1A SOD128"                                                                                        
+D1         CPDQ3V3U-HF            TopLayer DIODE-SOD923f             524.006       768.006       180      "TVS DIODE 3.3V 10.4V SOD923F"                                                                                        
+C2         GCM155R71H104KE02D     TopLayer CAP-0402                  1081.235      827.529       180      "CAP CER 0.1UF 50V X7R 0402 10%"                                                                                      
+C1         GCM155R71H104KE02D     TopLayer CAP-0402                  490.000       141.000       90       "CAP CER 0.1UF 50V X7R 0402 10%"                                                                                      
