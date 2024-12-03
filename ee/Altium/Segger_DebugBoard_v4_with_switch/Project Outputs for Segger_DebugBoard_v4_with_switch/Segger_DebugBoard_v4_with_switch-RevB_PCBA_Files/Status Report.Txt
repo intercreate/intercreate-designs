@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:52:51 PM On 12/3/2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Mfg] of Project [Segger_DebugBoard_v4_with_switch.PrjPcb]
+   Generated File[Bill of Materials-Segger_DebugBoard_v4_with_switch(Mfg).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:52:56 PM On 12/3/2024

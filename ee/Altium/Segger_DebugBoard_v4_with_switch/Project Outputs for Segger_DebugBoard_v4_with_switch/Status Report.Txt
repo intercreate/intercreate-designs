@@ -1,0 +1,10 @@
+Output: Export PARASOLID
+Type  : ExportSTEP
+From  : Variant [Mfg] of PCB Document [DebugBoardSw.PcbDoc]
+   Generated File[DebugBoardSw(Mfg).x_t]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:53:25 PM On 12/3/2024
