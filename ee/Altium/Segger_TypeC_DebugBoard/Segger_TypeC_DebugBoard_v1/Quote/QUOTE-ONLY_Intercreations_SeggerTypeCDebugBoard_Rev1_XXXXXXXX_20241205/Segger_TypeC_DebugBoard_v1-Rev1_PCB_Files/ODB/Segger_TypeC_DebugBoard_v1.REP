@@ -1,0 +1,80 @@
+*************************************************************
+FileName = Segger_TypeC_DebugBoard_v1.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\ground_1\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\ground_1\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\ground_2\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\ground_2\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\board_outline\tools
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\jlami\Desktop\intercreate-designs\ee\Altium\Segger_TypeC_DebugBoard\Segger_TypeC_DebugBoard_v1\Project Outputs for Segger_TypeC_DebugBoard_v1\Segger_TypeC_DebugBoard_v1-Rev1_PCB_Files\ODB\odb\matrix\matrix
+
