@@ -2,163 +2,8 @@
 FileName = Segger_TypeC_DebugBoard_v1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline
-      File : DebugBoard.GM1
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : DebugBoard.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : DebugBoard.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : DebugBoard.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D33
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : DebugBoard.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D26
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : DebugBoard.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : DebugBoard.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : DebugBoard.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D22
-    D49
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
-      File : DebugBoard.GTL
+      File : Segger_TypeC_DebugBoard_v1.GTL
 
     Adding Layer      : Top Layer
 
@@ -196,8 +41,195 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Ground 2
+      File : Segger_TypeC_DebugBoard_v1.G2
+
+    Adding Layer      : Ground 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D53
+    D54
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Segger_TypeC_DebugBoard_v1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Segger_TypeC_DebugBoard_v1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Segger_TypeC_DebugBoard_v1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D22
+    D49
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Segger_TypeC_DebugBoard_v1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Segger_TypeC_DebugBoard_v1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Segger_TypeC_DebugBoard_v1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D26
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Segger_TypeC_DebugBoard_v1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Segger_TypeC_DebugBoard_v1.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Ground 1
+      File : Segger_TypeC_DebugBoard_v1.G1
+
+    Adding Layer      : Ground 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D54
+    D55
+    D58
+*************************************************************
+
+*************************************************************
 Generating : Profile
-      File : DebugBoard.GM
+      File : Segger_TypeC_DebugBoard_v1.GM
 
 
 Used DCodes :
