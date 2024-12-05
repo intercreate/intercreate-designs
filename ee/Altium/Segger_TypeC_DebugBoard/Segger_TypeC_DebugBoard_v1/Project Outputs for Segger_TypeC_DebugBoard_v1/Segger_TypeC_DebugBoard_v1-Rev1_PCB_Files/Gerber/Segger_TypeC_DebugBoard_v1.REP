@@ -2,61 +2,6 @@
 FileName = Segger_TypeC_DebugBoard_v1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Segger_TypeC_DebugBoard_v1.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Ground 2
-      File : Segger_TypeC_DebugBoard_v1.G2
-
-    Adding Layer      : Ground 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D50
-    D53
-    D54
-    D58
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : Segger_TypeC_DebugBoard_v1.GBS
 
@@ -110,6 +55,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Ground 1
+      File : Segger_TypeC_DebugBoard_v1.G1
+
+    Adding Layer      : Ground 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D54
+    D55
+    D58
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : Segger_TypeC_DebugBoard_v1.GTO
 
@@ -125,6 +86,32 @@ Used DCodes :
     D15
     D16
     D17
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Segger_TypeC_DebugBoard_v1.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Segger_TypeC_DebugBoard_v1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
 *************************************************************
 
 *************************************************************
@@ -151,6 +138,61 @@ Used DCodes :
     D27
     D28
     D29
+*************************************************************
+
+*************************************************************
+Generating : Ground 2
+      File : Segger_TypeC_DebugBoard_v1.G2
+
+    Adding Layer      : Ground 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D53
+    D54
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Segger_TypeC_DebugBoard_v1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
 *************************************************************
 
 *************************************************************
@@ -183,48 +225,6 @@ Used DCodes :
     D43
     D44
     D45
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Segger_TypeC_DebugBoard_v1.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : Segger_TypeC_DebugBoard_v1.GM1
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Ground 1
-      File : Segger_TypeC_DebugBoard_v1.G1
-
-    Adding Layer      : Ground 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D54
-    D55
-    D58
 *************************************************************
 
 *************************************************************
