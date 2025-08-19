@@ -6,3 +6,8 @@ Altium/**/Project Logs*
 *.drc
 *.drc
 *.html
+
+*.LOG
+*.SchDocPreview
+*.PrjPcbStructure
+**/Project Outputs*
